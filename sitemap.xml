@@ -2,19 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2020/08/17/first-post/</loc>
-    
-    <lastmod>2020-08-17</lastmod>
-    
+    <loc>http://yoursite.com/2026/07/01/walletsforce/</loc>
+
+    <lastmod>2026-07-01</lastmod>
+
   </url>
-  
-  <url>
-    <loc>http://yoursite.com/2020/08/17/hello-world/</loc>
-    
-    <lastmod>2020-08-17</lastmod>
-    
-  </url>
-  
+
 
   <url>
     <loc>http://yoursite.com/</loc>
